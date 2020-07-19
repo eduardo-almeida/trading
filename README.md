@@ -16,7 +16,7 @@ Atuar como Cientista de Dados exercendo tarefas de coleta de dados estruturados 
 * [LinkedIn](https://www.linkedin.com/in/eduardo-almeida-814a676a/)
 
 
-## Projetos:
+## Projetos:  
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
 
